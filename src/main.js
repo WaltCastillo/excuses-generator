@@ -5,7 +5,7 @@ import "./style.css";
 window.onload = function() {
   let who = ["Mi perro", "Mi abuela", "La tortuga", "Mi gato"];
   let action = ["se comió", "se orinó", "rompio", "daño"];
-  let what = ["mi tarea", "mis llaves", "el carro", "mi computadora"];
+  let what = ["mi tarea", "mis llaves", "el carrito", "mi computadora"];
   let when = [
     "antes de clases",
     "justo a tiempo",
